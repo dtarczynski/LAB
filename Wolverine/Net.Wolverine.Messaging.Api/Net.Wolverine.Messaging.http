@@ -1,0 +1,6 @@
+@Net.Wolverine.Messaging_HostAddress = http://localhost:5141
+
+GET {{Net.Wolverine.Messaging_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

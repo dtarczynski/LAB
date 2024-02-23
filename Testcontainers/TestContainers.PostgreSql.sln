@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebApplication.Tests", "MyWebApplication.Tests\MyWebApplication.Tests.csproj", "{77F2088D-28C4-4804-BF8C-E5519BBFC09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebApplication.Api", "MyWebApplication.Api\MyWebApplication.Api.csproj", "{FE79FEB0-FE2E-4580-B330-20FDFE536AF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F2088D-28C4-4804-BF8C-E5519BBFC09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F2088D-28C4-4804-BF8C-E5519BBFC09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F2088D-28C4-4804-BF8C-E5519BBFC09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F2088D-28C4-4804-BF8C-E5519BBFC09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE79FEB0-FE2E-4580-B330-20FDFE536AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE79FEB0-FE2E-4580-B330-20FDFE536AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE79FEB0-FE2E-4580-B330-20FDFE536AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE79FEB0-FE2E-4580-B330-20FDFE536AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
